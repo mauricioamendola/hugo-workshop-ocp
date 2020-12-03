@@ -3,26 +3,6 @@ title: "Guia"
 menu: "main"
 ---
 
-### Como administrar la documentación de HUGO
-
-Para poder manejar la documentación, primero se debe descargar el repositorio de la documentación de HUGO.
-
-*https://gitlab01.oaas.hg.com.uy/nuevas-tecnologias/paas/ntdocumentation.git*
-
-En el repositorio se encuentra la siguiente estructura de archivos:
-```
-+-- image_version.txt
-+-- _index.md
-+-- guia.md
-+-- Hugo Deploy Openshift
-|   +-- _index.md
-|   +-- Paso 1-2.md
-|   +-- Paso 3.md
-|   +-- Paso 4.md
-|   +-- Paso 5.md
-|   +-- Paso 6.md
-```
-
 ### Crear documentación nueva
 
 Para generar un nuevo item en el menu, se debe crear un directorio, en el cual se debe crear un archivo `_index.md` con el siguiente codigo al principio:
