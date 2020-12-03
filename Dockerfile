@@ -15,7 +15,10 @@ RUN mkdir -p /usr/local/src \
 RUN git clone https://github.com/mauricioamendola/hugo-workshop-ocp.git \
     && mv hugo-workshop-ocp/* /usr/local/src/ \
     && git clone https://github.com/thingsym/hugo-theme-techdoc.git /usr/local/src/themes/techdoc
-    
+
+RUN chmod -R 775 /usr/local/src
+
+
 WORKDIR /usr/local/src
 COPY entrypoint.sh /tmp/
 RUN chmod +x /tmp/entrypoint.sh
