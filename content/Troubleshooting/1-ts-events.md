@@ -1,5 +1,5 @@
 ---
-title: "Diagnóstico: Eventos"
+title: "Eventos"
 draft: false
 weight: 1
 ---

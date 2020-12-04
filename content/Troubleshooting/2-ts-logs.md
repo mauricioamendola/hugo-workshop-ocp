@@ -1,5 +1,5 @@
 ---
-title: "Diagnóstico: Logs"
+title: "Logs"
 draft: false
 weight: 1
 ---
