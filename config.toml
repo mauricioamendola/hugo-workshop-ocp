@@ -13,7 +13,7 @@ defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
 [params]
-
+    themeVariant = "blue"
     # Source Code repository section
     description = "UTE SAPP"
     github_repository = "https://github.com/mauricioamendola/hugo-workshop-ocp"
