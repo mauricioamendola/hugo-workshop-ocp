@@ -1,7 +1,7 @@
 ---
 title: "Networking"
 draft: false
-weight: 1
+weight: 3
 ---
 
 ## Diagnosticando conectividad

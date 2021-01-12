@@ -1,7 +1,7 @@
 ---
 title: "Nodos"
 draft: false
-weight: 1
+weight: 5
 ---
 
 ## Debuguear a nivel del Nodo

@@ -1,7 +1,7 @@
 ---
 title: "KubeConfig"
 draft: false
-weight: 1
+weight: 6
 ---
 
 ## Kubeconf

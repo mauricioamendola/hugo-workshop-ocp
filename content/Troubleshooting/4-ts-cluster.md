@@ -1,7 +1,7 @@
 ---
 title: "Cluster"
 draft: false
-weight: 1
+weight: 4
 ---
 
 ## Validar el estado del cluster
