@@ -10,13 +10,13 @@ En la pantalla de Operators Hub, se puede buscar e instalar el operator "Grafana
 
 Operator Hub -> Grafana Community -> Install
 
-![grafana install](../images/grafana-0.png)
+![grafana install](/images/grafana-0.png)
 
-![grafana install](../images/grafana-1.png)
+![grafana install](/images/grafana-1.png)
 
 En la ventana de Installed Operators deberíamos de ver el operator recién instalado. Luego hay que crear dos instancias, una propiamente de Grafana y otra para el Data Source, en este caso el conector de Thanos / Prometheus.  
 
-![grafana install](../images/grafana-2.png)
+![grafana install](/images/grafana-2.png)
 
 ### Configurar permisos
 
